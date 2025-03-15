@@ -1,7 +1,7 @@
 ---
 date: '2025-03-15T19:58:23+05:30'
 draft: false
-title: 'Euclidean Algorithm for Greatest Common Divisor'
+title: 'Euclidean Algorithm for GCD'
 ---
 
 
@@ -9,11 +9,11 @@ title: 'Euclidean Algorithm for Greatest Common Divisor'
 
 
 
- The algorithm states that: 
-  \\[
-\gcd(n_1, n_2) = \gcd(n_1 - n_2, n_2),  \text{ given that } n_1 > n_2
+ The algorithm states that the greatest common divisor of two numbers can be derived by
+\\[
+\gcd(n_1, n_2) = \gcd(n_1 - n_2, n_2)  \\]
+\\[\text{ where } n_1 > n_2
 \\]
-
  
  
 The difference its always divisible by the GCD i.e.
