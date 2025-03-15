@@ -1,0 +1,29 @@
+baseURL: https://bytecron.me/
+languageCode: en-us
+title: Bytecron
+theme: ["PaperMod"]
+
+
+
+params:
+  math: true
+  homeInfoParams:
+    Title: Greetings 👋
+    Content: Welcome to Bytecron! Here, I dive into algorithms, technology, and all things computer science
+  
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/steve-cse"
+    - name: "linkedin"
+      url: "https://in.linkedin.com/in/steve-cse"
+    - name: "x"
+      url: "https://x.com/stevebobygeorge"
+    - name: "discord"
+      url: "https://discord.com/users/423151091874660354"
+    - name: "telegram"
+      url: "https://t.me/mave_2k"
+  defaultTheme: auto
+  disableThemeToggle: true
+  ShowReadingTime: true
+  author: ["Steve Boby George"]
+  
