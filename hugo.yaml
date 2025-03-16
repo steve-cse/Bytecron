@@ -1,16 +1,13 @@
 baseURL: https://www.bytecron.me/
 languageCode: en-us
-title: Bytecron - Tech Unraveled, One Byte at a Time
+title: Bytecron
 theme: ["PaperMod"]
-
-
 
 params:
   math: true
   homeInfoParams:
-    Title: Greetings 👋
+    Title: Greetings ( ^_^)/
     Content: Welcome to Bytecron! Here, I dive into algorithms, technology, and all things computer science
-  
   socialIcons: # optional
     - name: "github"
       url: "https://github.com/steve-cse"
